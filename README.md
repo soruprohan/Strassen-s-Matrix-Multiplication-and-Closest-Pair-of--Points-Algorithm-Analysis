@@ -1,5 +1,16 @@
 # 📊 Analysis Report: Implementing Divide and Conquer Algorithms
 
+## 🗂️ Table of Contents
+
+- [Introduction](#-introduction)
+- [Implementation](#-implementation)
+  - [Strassen's Matrix Multiplication](#part-1-strassens-matrix-multiplication)
+  - [Closest Pair of Points](#part-2-closest-pair-of-points)
+- [Performance Analysis](#-performance-analysis)
+  - [Strassen vs. Standard](#strassens-matrix-multiplication-vs-standard-multiplication)
+  - [Divide and Conquer vs. Brute Force](#divide-and-conquer-vs-brute-force-for-closest-pair)
+- [Conclusion](#-conclusion)
+
 ## 📌 Introduction
 
 This report covers the implementation and analysis of two algorithms leveraging the **divide-and-conquer** paradigm:
@@ -96,13 +107,3 @@ The divide-and-conquer strategy breaks problems into smaller subproblems, solves
 
 ---
 
-## 🗂️ Table of Contents
-
-- [Introduction](#-introduction)
-- [Implementation](#-implementation)
-  - [Strassen's Matrix Multiplication](#part-1-strassens-matrix-multiplication)
-  - [Closest Pair of Points](#part-2-closest-pair-of-points)
-- [Performance Analysis](#-performance-analysis)
-  - [Strassen vs. Standard](#strassens-matrix-multiplication-vs-standard-multiplication)
-  - [Divide and Conquer vs. Brute Force](#divide-and-conquer-vs-brute-force-for-closest-pair)
-- [Conclusion](#-conclusion)
